@@ -1,0 +1,1 @@
+print('Exercício 52 - Número Primo')

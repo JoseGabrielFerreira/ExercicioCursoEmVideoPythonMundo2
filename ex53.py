@@ -1,0 +1,1 @@
+print('Exercício 53 - Detector de Palíndromo')
